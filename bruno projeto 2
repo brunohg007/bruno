@@ -1,6 +1,6 @@
 .banner {
-    background: var(--azul-degrade);
-    color: var(--branco);
+    background: var(--vermelho-degrade);
+    color: var(--rosa);
     text-align: center;
     padding: 2.5em 2em;
 }
@@ -17,8 +17,8 @@
 
 .banner__pesquisa {
     background-color: transparent;
-    border: 1px solid var(--branco);
-    color: var(--branco);
+    border: 1px solid var(--rosa);
+    color: var(--rosa);
     border-radius: 24px;
     padding: 1em;
     width: 100%;
@@ -29,7 +29,7 @@
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    color: var(--branco);
+    color: var(--rosa);
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
 }
@@ -65,8 +65,8 @@
 
 
 }.carrossel__titulo {
-    color: var(--laranja);
-    background-color: var(--branco);
+    color: var(--azul);
+    background-color: var(--rosa);
     text-align: center;
     text-transform: uppercase;
     font-size: 18px;
@@ -104,7 +104,7 @@
 }
 
 .card {
-    background: var(--branco);
+    background: var(--rosa);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     margin: 1em;
@@ -112,7 +112,7 @@
 }
 
 .descrição__titulo {
-    color: var(--laranja);
+    color: var(--azul);
     font-weight: 700;
 }
 
@@ -134,7 +134,7 @@
 .botões__ancora {
     background-color: var(--laranja);
     padding: 1em 2.2em;
-    color: var(--branco);
+    color: var(--rosa);
     font-weight: 700;
     text-decoration: none;
 }
